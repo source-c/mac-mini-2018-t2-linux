@@ -1,0 +1,7 @@
+Copy files: 
+- brcmfmac4364b2-pcie.apple,lanai.txt
+- brcmfmac4364b2-pcie.apple,lanai.bin
+- brcmfmac4364b2-pcie.txcap_blob
+- brcmfmac4364b2-pcie.clm_blob
+
+to the /usr/lib/firmware/brcm/
